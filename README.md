@@ -1,9 +1,9 @@
-# FedHQ (PyTorch)
+# Dynamic Aggregation for Heterogeneous Quantization in Federated Learning (PyTorch)
 
-Implementation of the vanilla federated learning paper : [FEDHQ: Dynamic Aggregation for HeterogeneousQuantization in Federated Learning]().
+Implementation of dynamic aggregation for heterogeneous quantization in federated learning.
 
 ## References
-Our experiements refer to the papers as following. The paper link and GitHub link are given.
+The experiements refer to the papers as following. The paper link and GitHub link are given.
 ### Papers:
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) : [GitHub](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 * [SWALP: Stochastic Weight Averaging in Low-Precision Training](https://arxiv.org/abs/1904.11943v2) : [GitHub](https://github.com/stevenygd/SWALP)
